@@ -1,7 +1,7 @@
 # Programas
 
 Para que una computadora haga algo, tú (o alguien más) debe decirle
-exactamente --- y en detalle --- lo que tiene qué hacer. A la
+exactamente - y en detalle - lo que tiene qué hacer. A la
 descripción precisa sobre lo \"que tiene qué hacer una computadora\" se
 le llama programa y la programación es la actividad de escribir y
 depurar programas.
